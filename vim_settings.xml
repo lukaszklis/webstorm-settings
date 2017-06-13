@@ -1,0 +1,34 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/code/vouchery/client/src/app/vouchery/campaigns/limitations/limitation-time-of-order/limitation-time-of-order.component.ts" timestamp="1497340586694">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="86" column="0" filename="$USER_HOME$/code/vouchery/client/src/app/vouchery/campaigns/limitations/limitation-time-of-order/limitation-time-of-order.component.ts" />
+      <jump line="81" column="0" filename="$USER_HOME$/code/vouchery/client/src/app/vouchery/campaigns/limitations/limitation-time-of-order/limitation-time-of-order.component.ts" />
+      <jump line="95" column="0" filename="$USER_HOME$/code/vouchery/client/src/app/vouchery/campaigns/limitations/limitation-time-of-order/limitation-time-of-order.component.ts" />
+    </jumps>
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
