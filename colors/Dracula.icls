@@ -1,18 +1,9 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-07-19T13:37:47</property>
+    <property name="modified">2017-07-19T13:38:26</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="LINE_SPACING" value="1.1" />
   <colors>
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
