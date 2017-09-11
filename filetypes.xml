@@ -7,6 +7,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="steps" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
