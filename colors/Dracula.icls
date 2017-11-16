@@ -1,13 +1,13 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2017-09-02T12:02:49</property>
+    <property name="modified">2017-11-15T17:16:55</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
